@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Мийка самообслуговування у Татарбунарах, цілодобова автомийка Татарбунари - tarko.pp.ua
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Цілодобова автомийка самообслуговування у Татарбунарах. Програми миття, інструкція по митті автомобіля, самостійна очистка салону, новітні технології.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Tarko
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Автомийка самообслуговування №1
+  bio: Чудова вода та піна для бездоганного миття автомобіля. Завітайте до нас, щоб розпочати чи закінчити свою ідеальну пригоду!
 
 
 #-------------------------------
